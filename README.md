@@ -4,3 +4,9 @@ A small script that responds to private chat messages, containing the word "trum
 
 The script can be run inside a Docker container or started locally, at login, as launchd service.
 
+To run the script locally you will need python 3.9 and the following packages:
+
+* requests
+* python-dotenv
+* telethon
+
